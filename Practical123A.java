@@ -1,4 +1,4 @@
-public class practical3 {
+public class Practical23A {
 
     public static void print(int[] heap) {
         int n = heap.length - 1;
